@@ -129,7 +129,7 @@ The `<duration />` node is an instance of the type [`CourseDuration`](../../sche
   <specific unit="days" value="30" />
 </duration>
 ```
-There is no characters limit for the `<duration text>`> element. However, it will be elided after 80 characters. 
+There is no character limit for the `<duration text>`> element. However, it will be elided after 80 characters. 
 This field is optional.
 
 ### Information Request settings
